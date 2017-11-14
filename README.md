@@ -15,8 +15,13 @@ and we can calculate the information gain of different features
 color :0 ; height: 0; weight: 1 bit.
 
 ----Example
+
     X = np.array([[0,1,1,0,1,1,0],[0,1,0,0,1,0,0],[0,1,0,0,1,1,0]])
+    
     y = [2,3,3]
+    
     ig = InformationGain(X, y) # calculate
+    
     # get the result 
+    
     ig.get_result()
