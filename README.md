@@ -2,6 +2,7 @@
 中文：计算信息增益 English  : calculating the Information Gain 
 
 ----Information gain example
+
 there are two kinds of apples, and we know the [color,height,weight] of the apple
 like :
 [1,0,0] class label:good 
