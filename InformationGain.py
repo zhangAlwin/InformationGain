@@ -1,6 +1,14 @@
 #coding: utf-8
 import numpy as np
 '''
+to get the information gain
+you need to input:
+the vector of features
+the class label
+
+and you can get the output:
+the information gain of different featrues
+在计算单词的信息增益时：
 计算信息增益
 输入是词频表
 输出是词频顺序的信息增益
